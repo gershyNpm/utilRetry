@@ -1,10 +1,10 @@
 {
   "name": "@gershy/util-retry",
-  "version": "0.0.27",
+  "version": "0.0.28",
   "author": "Gershom Maes",
-  "description": "TODO",
+  "description": "Succinct retry utility",
   "keywords": [
-    "TODO"
+    "retry"
   ],
   "repository": {
     "type": "git",
@@ -20,11 +20,11 @@
   ],
   "license": "ISC",
   "peerDependencies": {
-    "@gershy/clearing": "^0.0.54"
+    "@gershy/clearing": "^0.0.55"
   },
   "devDependencies": {
-    "@gershy/entry": "^0.0.26",
-    "@gershy/logger": "^0.0.22",
+    "@gershy/entry": "^0.0.27",
+    "@gershy/logger": "^0.0.31",
     "@types/node": "^24.10.1"
   },
   "exports": {
